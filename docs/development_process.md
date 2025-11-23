@@ -16,7 +16,7 @@ git add .
 git commit -m "First commit"
 
 ## Step 4: Uploading to GitHub
-git remote add origin <repo-link>
+git remote add origin https://github.com/jangra-coder/CSFCP-Assignment1-Unit-5
 git branch -M main
 git push -u origin main
 
