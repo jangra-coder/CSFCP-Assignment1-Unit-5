@@ -1,13 +1,13 @@
-# CSFCP-Assignment1 Unit 5
+# CSFCP-Assignment1 Unit 4
 Rahul(2501350043)
 
 # Number Guessing Game (Python)
 
 ## About the Project
-This is a simple Python project where the computer picks a random number from 1 to 100 and the user has to guess it. After every guess, the program tells whether the guess is too high, too low, or correct.
+This is a simple Python project where the computer picks a random number from 1 to 10 and the user has to guess it. After every guess, the program tells whether the guess is too high, too low, or correct.
 
 ## Features
-- Random number between 1–100
+- Random number between 1–10
 - Tells if the guess is high / low
 - Shows number of attempts
 - Handles wrong input
